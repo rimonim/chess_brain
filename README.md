@@ -20,5 +20,10 @@ Let's start with the basics: How do we measure chess performance? I could get a 
 
 Let's start with hours in the day. [Circadian rhythms--the body's clock--have been found to modulate many basic cognitive processes](https://www.dovepress.com/circadian-rhythms-in-cognitive-performance-implications-for-neuropsych-peer-reviewed-fulltext-article-CPT). Since my current occupation allows me to play chess at various hours of the day, we can see if I tend to do better or worse at certain times.
 
+For context, here are results from [this study](https://journals.physiology.org/doi/pdf/10.1152/ajplegacy.1933.104.2.449?casa_token=lL4RF2ntiMcAAAAA:d2tuBiL0ST3Uk4Fkkc_7tB_oEjE-RIJem3lfYAZdoqYr11r2ltIr6WmD6WyPFpX4hXJ72u1GPh0) showing one person's performance on a variety of cognitive tasks at various times throughout the day.
 
+![Diurnal Variation in Cognitive Performance](figures/cognitivecircadian.jpg)
 
+Here is my chess performance over the past few months.
+
+![My Chess Performance by Hour of the Day](figures/chessbyhour.png)
