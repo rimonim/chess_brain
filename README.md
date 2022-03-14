@@ -27,3 +27,23 @@ For context, here are results from [this study](https://journals.physiology.org/
 Here is my chess performance over the past few months.
 
 ![My Chess Performance by Hour of the Day](figures/chessbyhour.png)
+
+Looks about right! I bet if I stayed up later than usual and played chess into the night, there would be a gradual dropoff in performance, just like in subject H. K.'s multiplication speed above.
+
+The results so far lend some initial validation to my measure. Let's bring in the data from my survey and ask some more questions.
+
+## How does the amount of sleep I get at night affect my chess performance?
+
+![My Chess Performance by Hours of Sleep the Previous Night](figures/chesssleep.png)
+
+## How do my affect and anxiety affect the amount of chess I play?
+
+![My Chess Performance by Affect](figures/chesshappiness.png)
+
+![My Chess Performance by Anxiety](figures/chessanxiety.png)
+
+## How do all these things affect the _way_ in which I lose/win my games?
+
+![My Chess Game Outcomes by Hours of Sleep](figures/chessoutcomesleep.png)
+![My Chess Game Outcomes by Affect](figures/chessoutcomehappiness.png)
+![My Chess Game Outcomes by Anxiety](figures/chessoutcomeanxiety.png)
