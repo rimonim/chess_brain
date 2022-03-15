@@ -35,11 +35,14 @@ The results so far lend some initial validation to my measure. Let's bring in th
 ## How does the amount of sleep I get at night affect my chess performance?
 
 ![My Chess Performance by Hours of Sleep the Previous Night](figures/chesssleep.png)
+
 Remember, this represents my rough recolection in late afternoon/evening of when I went to sleep the last night and woke up in the morning. 
 
 The effect looks to be mildy positive, with a peak around 8 hours. Does this mean I'm at my best when I get 8 hours of sleep? Unclear. I'm surprised at how weak this relationship seems to be. For some reason, the curve looks much more like what I expected when I limit it to data from my updated survey version, which I've been using only since December. 
 
 ![My Chess Performance by Hours of Sleep the Previous Night](figures/sleepchess.png)
+
+This difference could be due to chance, or some pitfall of my measurement system, or something about my schedule since December as opposed to before. 
 
 ## How do my affect and anxiety affect the amount of chess I play?
 
